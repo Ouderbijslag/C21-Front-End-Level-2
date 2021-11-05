@@ -43,6 +43,6 @@ function setColor(element, kleur, size){ //In op welke regel in de HTML file wor
     //wat gebeurt er in deze functie? De element krijgt een kleur en grootte van tekst wordt groter. vul je antwoord in op de lijn
 }
 
-getName(naam);
-// wat gebeurd er hierboven? Wanneer je website ververst komt er bovenaan de scherm een melding. en wanneer gebeurt dat? Als je je website ververst. (tip ververs je pagina eens in je brouwser? vul je antwoord in op de lijn.
-// verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? Gebeurt niks. vul je antwoord in op de lijn.
+getName(Kerim);
+// wat gebeurd er hierboven? Een functie voor een naam typen van de waarde myStr. en wanneer gebeurt dat? Als je een string maakt kan je een quote typen. (tip ververs je pagina eens in je brouwser? vul je antwoord in op de lijn.
+// verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? Er staat mijn eigen naam. vul je antwoord in op de lijn.
