@@ -44,5 +44,5 @@ function setColor(element, kleur, size){ //In op welke regel in de HTML file wor
 }
 
 getName(Kerim);
-// wat gebeurd er hierboven? Een functie voor een naam typen van de waarde myStr. en wanneer gebeurt dat? Als je een string maakt kan je een quote typen. (tip ververs je pagina eens in je brouwser? vul je antwoord in op de lijn.
+// wat gebeurd er hierboven? Een functie voor een naam typen van de waarde myStr. en wanneer gebeurt dat? Als je een string maakt kun je een quote typen. (tip ververs je pagina eens in je brouwser? vul je antwoord in op de lijn.
 // verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? Er staat mijn eigen naam. vul je antwoord in op de lijn.
